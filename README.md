@@ -11,7 +11,7 @@ Web-приложение для адаптации мигрантов в г.Мо
 ![Migrate_category_modal](https://github.com/Shamil9307/Migrate-Integrate/assets/144592258/55a3eeb0-b76b-4692-9b82-38107c545de1)
 
 ## Стек технологий:
-* JS, HTML5, CSS, SVG, React, Redux, Axios, Node.js, Express, JWT, Bcrypt, PostgreSQL, Sequelize, React-Bootstrap
+* JS, TS, HTML5, CSS, SVG, React, Redux, Axios, Node.js, Express, JWT, Bcrypt, PostgreSQL, Sequelize, React-Bootstrap
 
 ### Установка:
 В директории 2 папки:
